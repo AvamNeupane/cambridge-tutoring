@@ -36,3 +36,4 @@ Run the project using:
  Or, press **Run Without Debugging**.
 
 Disclaimer: AI was used in this project. However, all of the code is straightforward and was created with previous knowledge of React.
+I am more than happy to explain how everything works.
